@@ -11,5 +11,5 @@ Ideal zum Testen deiner Würfelglück-Strategie und zur Java-Konsolenprogrammier
 
 ### Kompilieren und Ausführen
 ```bash
-javac src/Kniffel.java
-java -cp src Kniffel
+javac Kniffel.java
+java -cp Kniffel
